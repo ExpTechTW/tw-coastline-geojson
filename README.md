@@ -1,9 +1,14 @@
-# 模板
+# tw-coastline-geojson
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- 臺灣海岸線 GeoJson
+- 作者為 [	Yoyochou0901](https://github.com/Yoyochou0901)
+- 海岸線 `tw.json`
+- 海嘯預警範圍分區 `tw_tsunami_area.json`
+- 此檔案被應用在 [TREM-Lite](https://github.com/ExpTechTW/TREM-Lite)
+- 如需引用檔案 請在項目中指向此倉庫
 
 ## 索引
 - [貢獻者](#貢獻者)
@@ -11,6 +16,7 @@
 - [合作](#合作)
 
 ## 貢獻者
+- Yoyochou0901 `資料處理`
 - whes1015 `文檔`
 
 ------
